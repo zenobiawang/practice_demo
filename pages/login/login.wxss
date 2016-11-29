@@ -1,0 +1,13 @@
+.logininfo{
+    border-bottom: 100px #000000
+}
+.button-sp-area{
+    margin: 0 auto;
+    padding-top: 15px;
+    width: 300px;
+}
+.image{
+    width: 30px;
+    height:30px;
+    margin-right: 20px
+}
